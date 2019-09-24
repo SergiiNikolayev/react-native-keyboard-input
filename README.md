@@ -1,4 +1,5 @@
 # React Native Keyboard Input
+# version: 5.3.1
 
 Presents a React component as an input view which replaces the system keyboard. Can be used for creating custom input views such as an image gallery, stickers, etc.
 
